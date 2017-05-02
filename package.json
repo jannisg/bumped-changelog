@@ -1,5 +1,5 @@
 {
-  "name": "bumped-changelog",
+  "name": "@jannis/bumped-changelog",
   "description": "Auto generate a changelog file in each bump.",
   "homepage": "https://github.com/Bumped/bumped-changelog",
   "version": "0.4.0",
